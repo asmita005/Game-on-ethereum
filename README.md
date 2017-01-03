@@ -64,10 +64,3 @@ Example Ethereum (Solidity) smart contract decentralized app with Webpack, demon
 
 1. Similarly for [solc-loader](https://github.com/uzyn/solc-loader).
 
-## Comments, bugs & collaborations
-
-Pull requests, bug reports are welcomed.
-
-This example dapp is put together by [U-Zyn Chua](http://uzyn.com). Say hi to me at Twitter ([@uzyn](http://twitter.com/uzyn)) or Freenode IRC (my handle: uzyn, usually at #ethereum).
-
-Tips: `0xFfA57D3e88A24311565C9929F180739E43FBD0aA`
